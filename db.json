@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "fullName": "chadan",
+      "email": "cdn@gmail.com",
+      "password": "cdv",
+      "id": 1
+    },
+    {
+      "email": "cdn@gmail.com",
+      "password": "cdn",
+      "id": 2
+    },
+    {
+      "email": "cdn@gmail.com",
+      "password": "cdn",
+      "id": 3
+    }
+  ],
+  "transactions": [
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "11",
+      "date": "2024-04-16",
+      "id": 1
+    },
+    {
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "333",
+      "date": "",
+      "id": 2
+    },
+    {
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "333",
+      "date": "2024-04-08",
+      "id": 3
+    },
+    {
+      "type": "Expense",
+      "category": "Bills",
+      "amount": "333444",
+      "date": "2024-04-10",
+      "id": 4
+    },
+    {
+      "type": "Income",
+      "category": "Bills",
+      "amount": "333444",
+      "date": "2024-04-10",
+      "id": 5
+    },
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": "333444",
+      "date": "2024-04-10",
+      "id": 6
+    },
+    {
+      "type": "Income",
+      "category": "Refunds",
+      "amount": "333444",
+      "date": "2024-04-10",
+      "id": 7
+    },
+    {
+      "type": "Expense",
+      "category": "Refunds",
+      "amount": "333444",
+      "date": "2024-04-10",
+      "id": 8
+    }
+  ]
+}
